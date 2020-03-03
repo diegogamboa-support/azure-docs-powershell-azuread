@@ -79,7 +79,7 @@ Accept wildcard characters: False
 ```
 
 ### -ObjectId
-The ID of the user (as a UserPrincipalName or ObjectId) in Azure AD to be assigned to the app role.
+Specifies the ID of a service principal in Azure AD.
 
 ```yaml
 Type: String
